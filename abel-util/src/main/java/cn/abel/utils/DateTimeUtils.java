@@ -20,7 +20,7 @@ public class DateTimeUtils {
     /**
      * 一分钟。
      */
-    public static final int ONE_MINUTE = 60 * 1000;
+    public static final int ONE_MINUTE = 180 * 1000;
 
     /**
      * 一小时。
